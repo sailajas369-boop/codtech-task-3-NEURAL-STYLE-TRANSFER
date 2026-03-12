@@ -39,6 +39,6 @@ This project implements **Neural Style Transfer** using **PyTorch**, allowing a 
 
 ## 🙋‍♀️ Developed by
 
-**Darsh Sharma**  
-B.Tech Computer Science Student  
-CodTech Intern 2025
+**Guntuboiyna Sailaja**
+🎓 B.Tech Computer Science(AI&ML)  
+CodTech Intern 2026
